@@ -1,0 +1,40 @@
+C:\Users\alien\source\repos\Twitch\Twitch\obj\Debug\Twitch.csprojResolveAssemblyReference.cache
+C:\Users\alien\source\repos\Twitch\Twitch\obj\Debug\Twitch.Form1.resources
+C:\Users\alien\source\repos\Twitch\Twitch\obj\Debug\Twitch.Properties.Resources.resources
+C:\Users\alien\source\repos\Twitch\Twitch\obj\Debug\Twitch.csproj.GenerateResource.Cache
+C:\Users\alien\source\repos\Twitch\Twitch\obj\Debug\Twitch.csproj.CoreCompileInputs.cache
+C:\Users\alien\source\repos\Twitch\Twitch\bin\Debug\Twitch.exe.config
+C:\Users\alien\source\repos\Twitch\Twitch\bin\Debug\Twitch.exe
+C:\Users\alien\source\repos\Twitch\Twitch\bin\Debug\Twitch.pdb
+C:\Users\alien\source\repos\Twitch\Twitch\obj\Debug\Twitch.exe
+C:\Users\alien\source\repos\Twitch\Twitch\obj\Debug\Twitch.pdb
+C:\Users\jn\Desktop\Twitch\Twitch\bin\Debug\Twitch.exe.config
+C:\Users\jn\Desktop\Twitch\Twitch\bin\Debug\Twitch.exe
+C:\Users\jn\Desktop\Twitch\Twitch\bin\Debug\Twitch.pdb
+C:\Users\jn\Desktop\Twitch\Twitch\obj\Debug\Twitch.csprojResolveAssemblyReference.cache
+C:\Users\jn\Desktop\Twitch\Twitch\obj\Debug\Twitch.Form1.resources
+C:\Users\jn\Desktop\Twitch\Twitch\obj\Debug\Twitch.Properties.Resources.resources
+C:\Users\jn\Desktop\Twitch\Twitch\obj\Debug\Twitch.csproj.GenerateResource.Cache
+C:\Users\jn\Desktop\Twitch\Twitch\obj\Debug\Twitch.csproj.CoreCompileInputs.cache
+C:\Users\jn\Desktop\Twitch\Twitch\obj\Debug\Twitch.exe
+C:\Users\jn\Desktop\Twitch\Twitch\obj\Debug\Twitch.pdb
+C:\Users\alien\Desktop\Twitch\Twitch\bin\Debug\Twitch.exe.config
+C:\Users\alien\Desktop\Twitch\Twitch\bin\Debug\Twitch.exe
+C:\Users\alien\Desktop\Twitch\Twitch\bin\Debug\Twitch.pdb
+C:\Users\alien\Desktop\Twitch\Twitch\obj\Debug\Twitch.csprojResolveAssemblyReference.cache
+C:\Users\alien\Desktop\Twitch\Twitch\obj\Debug\Twitch.Form1.resources
+C:\Users\alien\Desktop\Twitch\Twitch\obj\Debug\Twitch.Properties.Resources.resources
+C:\Users\alien\Desktop\Twitch\Twitch\obj\Debug\Twitch.csproj.GenerateResource.Cache
+C:\Users\alien\Desktop\Twitch\Twitch\obj\Debug\Twitch.csproj.CoreCompileInputs.cache
+C:\Users\alien\Desktop\Twitch\Twitch\obj\Debug\Twitch.exe
+C:\Users\alien\Desktop\Twitch\Twitch\obj\Debug\Twitch.pdb
+C:\Users\Jacob Neels\Desktop\Twitch\bin\Debug\Twitch.exe.config
+C:\Users\Jacob Neels\Desktop\Twitch\bin\Debug\Twitch.exe
+C:\Users\Jacob Neels\Desktop\Twitch\bin\Debug\Twitch.pdb
+C:\Users\Jacob Neels\Desktop\Twitch\obj\Debug\Twitch.csprojResolveAssemblyReference.cache
+C:\Users\Jacob Neels\Desktop\Twitch\obj\Debug\Twitch.Form1.resources
+C:\Users\Jacob Neels\Desktop\Twitch\obj\Debug\Twitch.Properties.Resources.resources
+C:\Users\Jacob Neels\Desktop\Twitch\obj\Debug\Twitch.csproj.GenerateResource.Cache
+C:\Users\Jacob Neels\Desktop\Twitch\obj\Debug\Twitch.csproj.CoreCompileInputs.cache
+C:\Users\Jacob Neels\Desktop\Twitch\obj\Debug\Twitch.exe
+C:\Users\Jacob Neels\Desktop\Twitch\obj\Debug\Twitch.pdb

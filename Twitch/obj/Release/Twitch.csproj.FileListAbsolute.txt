@@ -1,0 +1,10 @@
+C:\Users\jn\Desktop\Twitch\Twitch\bin\Release\Twitch.exe.config
+C:\Users\jn\Desktop\Twitch\Twitch\bin\Release\Twitch.exe
+C:\Users\jn\Desktop\Twitch\Twitch\bin\Release\Twitch.pdb
+C:\Users\jn\Desktop\Twitch\Twitch\obj\Release\Twitch.Form1.resources
+C:\Users\jn\Desktop\Twitch\Twitch\obj\Release\Twitch.Properties.Resources.resources
+C:\Users\jn\Desktop\Twitch\Twitch\obj\Release\Twitch.csproj.GenerateResource.Cache
+C:\Users\jn\Desktop\Twitch\Twitch\obj\Release\Twitch.csproj.CoreCompileInputs.cache
+C:\Users\jn\Desktop\Twitch\Twitch\obj\Release\Twitch.exe
+C:\Users\jn\Desktop\Twitch\Twitch\obj\Release\Twitch.pdb
+C:\Users\jn\Desktop\Twitch\Twitch\obj\Release\Twitch.csprojResolveAssemblyReference.cache
